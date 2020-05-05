@@ -1,0 +1,7 @@
+__pycache__/
+
+# IDE stuff
+.idea
+
+# Virtual environtment
+venv
