@@ -1,4 +1,4 @@
-from src.scavenger_hunt import (
+from src.item_picker import (
     pick_items,
     KITCHEN_ITEMS,
     LIVING_ITEMS,

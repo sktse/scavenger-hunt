@@ -1,4 +1,4 @@
-from typing import Iterable, List, Tuple
+from typing import Iterable, List
 
 
 def generate_html(items: List[str]) -> str:
