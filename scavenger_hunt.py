@@ -15,7 +15,7 @@ def scavenger_hunt(filename: str) -> None:
     with open(file_path, "w") as fs:
         fs.write(html)
 
-    print(f"Finished writing scavenger hunt items to {html_filename}")
+    print(f"Finished writing scavenger hunt items to {file_path}")
 
 
 if __name__ == '__main__':
