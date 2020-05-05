@@ -14,7 +14,7 @@ KITCHEN_ITEMS = [
     "Coffee or Tea",
     "Dish Soap",
     "Cooking Appliance",
-    "A Bottled or Canned Beverage",
+    "Bottled or Canned Beverage",
     "Spatula",
     "Hot Sauce",
     "Spice",
@@ -59,7 +59,7 @@ LIVING_ITEMS = [
     "Sun glasses",
     "Gloves",
     "Keys",
-    "A Remote Control",
+    "Remote Control",
     "Pillow",
 ]
 
