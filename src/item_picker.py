@@ -22,6 +22,9 @@ KITCHEN_ITEMS = [
     "Serrated Knife",
     "Alcohol",
     "A Single Peppercorn",
+    "An egg",
+    "Flour",
+    "Spice blend",
 ]
 
 OFFICE_ITEMS = [
@@ -39,6 +42,8 @@ OFFICE_ITEMS = [
     "A Piece of Paper with Your Name on it",
     "A Phone",
     "Memory Card or USB Stick",
+    "USB Hub",
+    "Tape",
 ]
 
 LIVING_ITEMS = [
@@ -56,11 +61,14 @@ LIVING_ITEMS = [
     "Hardware Tool",
     "Skin Care",
     "Reusable Grocery Bag",
-    "Sun glasses",
+    "Sun Glasses",
     "Gloves",
     "Keys",
     "Remote Control",
     "Pillow",
+    "Hand Sanitizer",
+    "Toilet Paper",
+    "A Piece of a Puzzle",
 ]
 
 
